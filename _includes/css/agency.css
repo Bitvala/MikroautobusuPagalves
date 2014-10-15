@@ -68,6 +68,10 @@ h6 {
     background-color: #222;
 }
 
+.bg-medium-gray {
+    background-color: #DDDDDD;
+}
+
 .btn-primary {
     border-color: #{{ site.color.primary }};
     text-transform: uppercase;
@@ -285,6 +289,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    
 }
 
 header .intro-text .intro-heading {
@@ -294,6 +299,7 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    
 }
 
 @media(min-width:768px) {
